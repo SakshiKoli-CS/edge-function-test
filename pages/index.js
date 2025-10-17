@@ -12,8 +12,11 @@ export default function Home() {
       <h1 style={{ fontSize: '3rem', color: '#333', marginBottom: '1rem' }}>
         Welcome to Next.js
       </h1>
-      <p style={{ fontSize: '1.25rem', color: '#666', marginBottom: '2rem' }}>
-        Simple Next.js project with one page
+      <p style={{ fontSize: '1.25rem', color: '#666', marginBottom: '0.5rem' }}>
+        With Contentstack Launch Edge Function
+      </p>
+      <p style={{ fontSize: '1rem', color: '#999', marginBottom: '2rem' }}>
+        Domain-based redirect implementation
       </p>
       <a 
         href="/test-redirect" 
@@ -27,7 +30,7 @@ export default function Home() {
           fontWeight: '500'
         }}
       >
-        Test Edge Function Redirects
+        Learn About Edge Function
       </a>
     </div>
   );
