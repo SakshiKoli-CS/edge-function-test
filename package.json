@@ -2,6 +2,9 @@
   "name": "edge-function-test",
   "version": "1.0.0",
   "description": "Simple Contentstack Launch Edge Function for redirects",
-  "type": "module"
+  "type": "module",
+  "scripts": {
+    "build": "echo 'No build needed for edge function'"
+  }
 }
 
