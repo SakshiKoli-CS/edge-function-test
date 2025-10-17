@@ -1,0 +1,8 @@
+{
+  "framework": "nextjs",
+  "build": {
+    "command": "npm run build",
+    "output": "out"
+  }
+}
+
