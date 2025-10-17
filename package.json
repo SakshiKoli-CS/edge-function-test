@@ -1,0 +1,7 @@
+{
+  "name": "edge-function-test",
+  "version": "1.0.0",
+  "description": "Simple Contentstack Launch Edge Function for redirects",
+  "type": "module"
+}
+
