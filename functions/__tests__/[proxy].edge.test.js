@@ -1,5 +1,5 @@
 /* eslint-disable no-console */
-import handler from '../[proxy].edge.js';
+import handler from '../../[proxy].edge.js';
 
 // Mock console.log to avoid cluttering test output
 const originalConsoleLog = console.log;
