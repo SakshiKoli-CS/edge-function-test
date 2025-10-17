@@ -1,4 +1,4 @@
-export default function handler(request, context) {
+export default function handler(request) {
     
     const parsedUrl = new URL(request.url);
     console.log(`Received request for ${parsedUrl.host}`);
